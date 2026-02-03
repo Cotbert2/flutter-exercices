@@ -53,7 +53,7 @@ class _MyHomePageState extends State<MyHomePage> {
             label: 'Palindromo',
           ),
           BottomNavigationBarItem(
-            icon: Icon(Icons.analytics),
+            icon: Icon(Icons.abc),
             label: 'Uva',
           ),
         ],
